@@ -1,0 +1,38 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJExtension (3.4.1)
+  - MJRefresh (3.7.5)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - ReactiveObjC
+  - SDWebImage
+  - Toast
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - ReactiveObjC
+    - SDWebImage
+    - Toast
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: ea5cc6bcfdbf4ab22e2871d09fe228d5b6d1bab8
+
+COCOAPODS: 1.12.1
